@@ -1,6 +1,4 @@
-﻿using System;
-using System.IO;
-using System.Diagnostics;
+﻿using System.Diagnostics;
 namespace Pharmacy
 {
     class Program{
