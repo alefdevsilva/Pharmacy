@@ -23,7 +23,7 @@ namespace Pharmacy
        Process firefox = new Process();
        firefox.StartInfo.FileName = "c:\\Program Files\\Mozilla Firefox\\firefox.exe";
        firefox.StartInfo.Arguments = "google.com/" + "search?q=" + line;
-       firefox.Start();
+       firefox.Start(); 
     }
  }
 }
